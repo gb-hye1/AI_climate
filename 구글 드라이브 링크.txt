@@ -1,2 +1,1 @@
-https://drive.google.com/drive/folders/
-1nLw3XRme6GL6iAgyTFCOGi76jyCGDAbH?usp=drive_link
+https://colab.research.google.com/drive/1Xi4siIu0kR70EjU6c-vMgUq_megW-4Ex?usp=drive_link
